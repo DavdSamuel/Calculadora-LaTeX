@@ -1,4 +1,7 @@
-.config/
 .gitignore
+
+.config/
+
 .replit
+
 replit.nix
